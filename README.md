@@ -6,40 +6,14 @@ A modern chat application built with *Kotlin, **Jetpack Compose, and **Firebase 
 
 🔹 Chat Smart. Chat Safe. 🚀
 
-## Features
+## Objectives
 
-- *Instant Messaging:* Real-time chat with seamless message delivery.
-- *AI-Powered Moderation:* Detects violent, offensive, or inappropriate messages using an AI model.
-- *Admin Monitoring App:* Admins can track who sent what message, to whom, and at what time.
-- *Secure Cloud Storage:* Messages are stored securely in *Firebase Firestore*.
-- *Modern UI:* Built using *Jetpack Compose* for a smooth and intuitive experience.
-- *Cyberbullying Detection:* Flags messages containing harmful content and prevents abuse.
+- To chat in Real-time  with seamless message delivery.
+- To Detect violent, offensive, or inappropriate messages using an AI model.
+- To track who sent what message, to whom, and at what time.
+- To store Messages securely in *Firebase Firestore*.
+- To Flag messages containing harmful content and prevents abuse.
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- *Android Studio* (latest version recommended)
-- *Kotlin*
-- *Firebase Firestore* setup with authentication and database rules
-- *Machine Learning Model* integrated for message classification
-
-## Installation
-
-1. Clone the repository:
-   https://github.com/Athul-Christo/Group-10.git  
-   
-
-3. Open the project in *Android Studio*.
-
-4. Sync Gradle files and install dependencies.
-
-5. Set up *Firebase Firestore*:
-
-   - Connect Firebase to the project.
-   - Set up Firestore rules for message security.
-
-6. Run the app on an emulator or physical device.
 
 ## Usage
 
