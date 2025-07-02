@@ -1,4 +1,4 @@
-# SafeChat AI
+# safechat Ai
 
 🚀 SafeChat AI – AI-Powered Secure Chat Application! 🔒💬
 
